@@ -5,21 +5,31 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+<p align="left"  > 
+<img  alt="Visual Studio Code" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<img alt="Sass" height="40"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+
+<img  alt="Sass" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="38"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="38" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs" width="40" height="38"/>
+
+<img  alt="Git" height="40" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+
+</p>
 
 ### ⭐️ &nbsp; Github Star
 
-<img   width="465;height: 195px;"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'></img>
-    <img   width="350px;height: 195px;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact'></img>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact) -->
-
-<!-- ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
- -->
+<img style="float: left"  width="465;height: 195px;"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'></img>
+<img style="float: right"  width="350px;height: 195px;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact'></img>
 
 ![](https://raw.githubusercontent.com/CaiYaSang/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/CaiYaSang/github-stats-transparent/output/generated/languages.svg)
