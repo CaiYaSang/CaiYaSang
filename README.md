@@ -12,10 +12,8 @@
 
 ### ⭐️ &nbsp; Github Star
 
-<div style='display:flex;justify-content: space-evenly;'>
-<img  style="margin-right: 2.6667vw;" width="495px;height: 195px;"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'></img>
-    <img width="350px;height: 195px;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact'></img>
-</div>
+<img style="float: left"  width="465;height: 195px;"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'></img>
+    <img style="float: right"  width="350px;height: 195px;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact'></img>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact) -->
 
