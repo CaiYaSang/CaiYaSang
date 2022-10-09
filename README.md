@@ -28,8 +28,8 @@
 
 ### ⭐️ &nbsp; Github Star
 
-<img style="float: left"  width="465;height: 195px;"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'></img>
-<img style="float: right"  width="350px;height: 195px;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaiYaSang&layout=compact'></img>
+<img style="float: left"  src='https://github-readme-stats.vercel.app/api?username=CaiYaSang&show_icons=true&&bg_color=DEG,0093E9,80D0C7&hide_border=true&icon_color=FFFFFF&text_color=000000&title_color=FFFFFF&card_width=450&border_radius=17'></img>
+<img style="float: left"   src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=400&text_bold=false&border_radius=20&title_color=000'></img>
 
-![](https://raw.githubusercontent.com/CaiYaSang/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/CaiYaSang/github-stats-transparent/output/generated/languages.svg)
+
+
