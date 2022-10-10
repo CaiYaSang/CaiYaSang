@@ -3,11 +3,13 @@
 <h4 align="center">前端开发菜鸡等级，努力学习中...</h4>
 <h1></h1>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Technologies
+
 
 <p align="left"  > 
-  
-<img  alt="Visual Studio Code" width="35" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />
+
+<img  alt="Visual Studio Code" width="35" height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
@@ -23,9 +25,13 @@
 
 <img  alt="Git" height="40" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
 
+<img  alt="GitHub" height="38" width="38" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 
 </p>
+
+<h1></h1>
 
 ### ⭐️ &nbsp; Github Star
 
