@@ -1,4 +1,4 @@
-<div align="center" font-size: 22;>Hi 👋, I'm CaiYaSang</div>
+<div align="center" style='font-size: 32px;font-weight: 550;'>Hi 👋, I'm CaiYaSang</div>
 
 <h4 align="center" >A front-end developer from China. Hope to discuss front-end technology together and make progress together!<h3>
 
