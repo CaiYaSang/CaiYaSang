@@ -6,7 +6,7 @@
 
 <h1></h1>
 
-### 🛠 &nbsp; Technologies.
+### 🛠 &nbsp; Technologies
 
 <p align="left"  > 
 
